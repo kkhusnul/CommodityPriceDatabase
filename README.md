@@ -32,7 +32,7 @@ Cross-provincial price comparison
 Time-based price tracking
 Automatic recalculation when filters change
 
-3.Slicer Integration
+3. Slicer Integration
 Slicers were implemented to improve interactivity:
 Commodity filter slicer
 Time-based slicer
